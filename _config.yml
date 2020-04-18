@@ -1,2 +1,2 @@
-theme: mx3m/hikari-for-jekyll
+theme: https://github.com/mx3m/hikari-for-jekyll.git
 title: hello world
